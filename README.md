@@ -10,7 +10,7 @@ I'm Luismary Mariño, currently an Au Pair who studies at student at Brigham You
 - My goals are to one day be able to combine my interests for languages and culture and my love for software development in my job
 - Ask me about traveling! I love getting to know new places
 
-## Technologies and Tools   [Duck Duck Go](https://duckduckgo.com)
+## Technologies and Tools
 
 - Proficient in: Python, HTML5/CSS, Javascript, SQL
 - Skills: OOP, Adobe Applications
